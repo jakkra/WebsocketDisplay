@@ -1,0 +1,20 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/jakkra/.platformio/penv/bin:/home/jakkra/.platformio/penv:/home/jakkra/.Pokemon-Terminal:/home/jakkra/Android/Sdk/tools:/home/jakkra/Android/Sdk/platform-tools:/usr/local/heroku/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Disabled",
+  "files.associations": {
+    "array": "cpp",
+    "initializer_list": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp"
+  }
+}
