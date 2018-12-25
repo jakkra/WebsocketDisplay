@@ -38,3 +38,11 @@ Website for controlling the display. Includes:
 
 ## Wiring
 [See the PxMatrix library](https://github.com/2dom/PxMatrix)
+
+## Running
+```
+cd client 
+npm i
+npm start
+```
+For flashing esp8266 easiest is to open project in Platform IO, otherwise manually downloading the libraries and flashing using Arduino IDE also works.
